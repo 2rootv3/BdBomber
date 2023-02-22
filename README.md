@@ -9,3 +9,7 @@ apt install git
 
 install the python :
 apt install python
+
+now run your tool...
+
+Enjoy.......
