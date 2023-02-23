@@ -1,6 +1,5 @@
 import requests
 import os
-import pyautogui
 import time
 banner='''
     __  __      __      __      ___         __  __           __            
@@ -33,6 +32,7 @@ banner3='''
                             ██▒▒▒▒▒▒▒▒██                                            
                             ░░▓▓▓▓▓▓▓▓░░                                            
 '''
+
 os.system('clear')
 print(banner)
 print("1) start bd bomber")
@@ -41,7 +41,7 @@ y=int(input("=>"))
 if y==1:
     os.system('clear')
     print(banner2)
-    n =input("Enter Your Target Number: ")
+    n =str(input("Enter Your Target Number: "))
     a = int(input("Enter Your Amount: "))
     if n == m or n == m2:
         print('Tray another number.')
