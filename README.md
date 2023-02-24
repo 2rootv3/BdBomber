@@ -28,7 +28,7 @@ Now ⇓
  Give all permission ⇓
 
 ```bash
-  chmod 777
+  chmod 777 bombing.py
 ```
 Install the all requirement ⇓
 
