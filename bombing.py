@@ -1,7 +1,6 @@
 import requests
 import os
 import time
-import pyautogui
 banner2='''
  ___      ___                   
 | o ) || | o ) _   _ _ ||  _  _ 
@@ -46,10 +45,6 @@ if y==1:
     if n in phone_number:
         print('Tray another number.')
         time.sleep(2)
-        pyautogui.press('up')
-        pyautogui.press('enter')
-        pyautogui.press('1')
-        pyautogui.press('enter')
 
     else:
         os.system('clear')
