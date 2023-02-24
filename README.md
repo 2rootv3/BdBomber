@@ -33,7 +33,7 @@ Now ⇓
 Install the all requirement ⇓
 
 ```bash
-  pip install -r requiremen.txt
+  pip install -r requirements.txt
 ```
 At last ,Now  you can run the tool in 2 way ⇓
 
