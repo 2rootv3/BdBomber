@@ -47,9 +47,7 @@ At last ,Now  you can run the tool in 2 way ⇓
 ## This tool make for fun purpose
 
 ```javascript
-First install the requirement
-Now you ready for run the tool
-
+This tool make for fun.But don't use it wrong way ,or don't use it for disturb anyone
 -------------------------------
 if you do any crime with using this tool so i am not responsible for this.
 ```
