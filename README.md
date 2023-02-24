@@ -1,15 +1,6 @@
 # BdBomber
 Bangladeshi number bombing tool.
 
-This tool run on linux:
-
-install the gihub:
-apt install git
-
-
-install the python :
-apt install python
-
-now run your tool...
-
-Enjoy.......
+After run this tool you need to install the requirements
+For install the all requirement run this cmd:
+**pip install -r requiremen.txt**
