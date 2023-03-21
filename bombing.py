@@ -10,7 +10,7 @@ banner2='''
                                ➤   
 '''
 phone_number=['01618609573','01974162244']
-banner3='''Art by Halal-AsHacker
+banner3='''Art by 2rootv3
            ___
      |     | |
     / \    | |
