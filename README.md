@@ -17,7 +17,7 @@ Install python and pip, ⇓
 install the tool ⇓
 
 ```bash
-  https://github.com/2rootv3/BdBomber.git
+  git clone https://github.com/2rootv3/BdBomber.git
 ```
 Now ⇓
 
