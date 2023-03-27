@@ -1,4 +1,9 @@
 #!/usr/bin/env python
+try:
+    import requests
+except ModuleNotFoundError:
+    import os
+    os.system('pip install requests')
 import requests
 import os
 import time
